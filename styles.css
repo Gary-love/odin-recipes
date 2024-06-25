@@ -1,0 +1,29 @@
+*{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#jj{
+  color: rgb(168, 20, 20);
+  font-weight: bold;
+}
+.title{
+  text-align: center;
+  font-weight: bold;
+
+}
+.body{
+  background-color: antiquewhite;
+}
+#Banana,#Enchilada{
+  background-color: rgb(235, 235, 95);
+}
+#Peach{
+  background-color: rgb(223, 128, 39);
+}
+.Description,.ingredients{
+  color: rgb(38, 0, 255);
+  font-weight: bold;
+}
+.steps{
+  color: rgb(99, 6, 6);
+  font-weight: bold;
+}
